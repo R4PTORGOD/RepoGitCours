@@ -3,3 +3,6 @@ ajout commit 3 main
 ajout commit 4 main
 
 ajout commit 1 branche1
+
+ajout commit 1 branche2
+ajout commit 2 branche2
